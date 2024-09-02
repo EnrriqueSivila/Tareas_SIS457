@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EjercicioAjedrez", "EjercicioAjedrez.vcxproj", "{05F267AB-1EAC-44D0-8893-A5C13259F487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05F267AB-1EAC-44D0-8893-A5C13259F487}.Debug|x64.ActiveCfg = Debug|x64
+		{05F267AB-1EAC-44D0-8893-A5C13259F487}.Debug|x64.Build.0 = Debug|x64
+		{05F267AB-1EAC-44D0-8893-A5C13259F487}.Debug|x86.ActiveCfg = Debug|Win32
+		{05F267AB-1EAC-44D0-8893-A5C13259F487}.Debug|x86.Build.0 = Debug|Win32
+		{05F267AB-1EAC-44D0-8893-A5C13259F487}.Release|x64.ActiveCfg = Release|x64
+		{05F267AB-1EAC-44D0-8893-A5C13259F487}.Release|x64.Build.0 = Release|x64
+		{05F267AB-1EAC-44D0-8893-A5C13259F487}.Release|x86.ActiveCfg = Release|Win32
+		{05F267AB-1EAC-44D0-8893-A5C13259F487}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D27DEE6-5B0F-4A56-BCEA-3572C8A44701}
+	EndGlobalSection
+EndGlobal
